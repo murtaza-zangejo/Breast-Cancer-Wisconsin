@@ -54,10 +54,8 @@ Target:
 * Seaborn
 * Scikit-learn
 
-
 # 🔄 Machine Learning Workflow
 
-```
 Data Collection
         ↓
 Data Exploration
