@@ -77,8 +77,7 @@ Model Evaluation
 Performance Comparison
 
 
-
-#📊 Exploratory Data Analysis
+📊 Exploratory Data Analysis
 
 Performed analysis includes:
 
@@ -89,9 +88,7 @@ Performed analysis includes:
 * Statistical summary
 * Missing value detection
 
-### Visualization
-
-Implemented:
+### Visualization Implemented:
 
 * Correlation Matrix
 * Heatmap
@@ -99,20 +96,12 @@ Implemented:
 * Box plots
 * Feature distribution analysis
 
-Example insights:
-
-* Highly correlated features were identified
-* Feature distributions were analyzed
-* Outliers were investigated
-
 
 # ⚙️ Data Preprocessing
 
 Steps performed:
 
-### 1. Removing unnecessary columns
-
-Removed:
+### 1. Removing unnecessary columns Removed:
 
 * ID column
 * Unnamed: 32
@@ -141,12 +130,9 @@ The following classification algorithms were trained and compared:
 
 A statistical classification algorithm used as a baseline model.
 
-
 ## 2. K-Nearest Neighbor (KNN)
 
 Classifies samples based on similarity with neighboring data points.
-
---
 
 ## 3. Support Vector Machine (SVM)
 
