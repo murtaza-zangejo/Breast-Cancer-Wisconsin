@@ -1,0 +1,11 @@
+pandas 
+numpy 
+seaborn 
+matplotlib.pyplot
+LogisticRegression
+RandomForestClassifier
+KNeighborsClassifier
+SVC
+DecisionTreeClassifier
+LabelEncoder, StandardScaler
+confusion_matrix, accuracy_score, classification_report
