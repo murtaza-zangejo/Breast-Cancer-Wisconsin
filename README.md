@@ -181,7 +181,7 @@ Visual representation of:
 # 📌 Results
 
 The models were compared based on their classification performance.
-
+<img width="249" height="153" alt="image" src="https://github.com/user-attachments/assets/53d7f945-ebf0-49be-9d11-921e0f62934f" />
 
 
 # 🚀 Installation & Setup
